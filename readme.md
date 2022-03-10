@@ -10,9 +10,10 @@ Finalizado.
 
 ![Captura de tela do projeto](https://user-images.githubusercontent.com/72027449/154543031-54e563a4-6aad-4dca-a560-5c7dc6be8d9d.png)
 
-## Acesse o projeto
+## 🚀 Acesse o projeto
 
-[Link para acessar](https://leo-henrique.github.io/barbearia/)
+* [Design no figma](https://www.figma.com/file/daY57m9WgOrSmT3Pcwndi1/portfolio-barbershop?node-id=1%3A2)
+* [Link para o projeto](https://leo-henrique.github.io/barbearia/)
 
 ## 💻 Tecnologias utilizadas
 
